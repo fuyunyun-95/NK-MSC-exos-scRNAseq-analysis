@@ -35,7 +35,7 @@ Software environment and package version information used in the scRNA-seq analy
 ### `20260330_NK_EXO_article.ipynb`
 Main notebook for the scRNA-seq analysis workflow, including scripts for generating:
 - Figure 3–4
-- Supplementary Figure S3–S4
+- Supplementary Figure 3–4
 
 ### `analysis data_260323.xlsx`
 Analysis data for generating:
@@ -45,4 +45,4 @@ Analysis data for generating:
 
 ### `analysis data_Supplementary Figure_260325.xlsx`
 Analysis data for generating:
-- Supplementary Figure S1–S3
+- Supplementary Figure 1–3
