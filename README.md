@@ -12,8 +12,8 @@ AnnData file containing NK single-cell data after initial quality control and re
 AnnData file containing NK single-cell data after quality control and batch correction, but without cell subtype annotation.
 
 In the `condition` column:
-- `EXO`: MSC-Exos–treated expanded NK cells
-- `CON`: control expanded NK cells
+- `EXO`: the MSC-Exos–treated expanded NK cells
+- `CON`: the control expanded NK cells
 
 ### `NK25_EXO_250811_annotated.h5ad`
 AnnData file containing NK single-cell data after quality control, batch correction, and cell subtype annotation.
